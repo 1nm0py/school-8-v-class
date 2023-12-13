@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+    background: blue;
+    border: 7px solid chartreuse;
+    height: 600px;
+    width: 1000;
+}
+h1{
+    color: rgb(64, 226, 43);
+}
+h2{
+    color: rgb(219, 12, 22);
+}
+p{
+    color: yellow;
+}
+img{
+    width: 500px;
+    height: 300px;
+}
